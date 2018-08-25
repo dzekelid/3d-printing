@@ -15,25 +15,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: 3D Printing
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/national-institutes-of-health/apis.md
 specificationVersion: "0.14"
-apis:
-- name: NIH 3D Print Exchange API
-  x-api-slug: nih-3d-print-exchange-api
-  description: The NIH 3D Print Exchange (&ldquo;3DPX&rdquo; for short) houses biomedically-relevant
-    3D models, which anyone can interact with in a browser-based viewer or download
-    and print on a 3D printer. Our APIs allow developers to access this content &ndash;
-    in both XML and JSON format &ndash; for integration into their own tools. To learn
-    more about the NIH 3D Print Exchange, please visithttp://3dprint.nih.gov.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NIH_Master_Logo_Vertical_2Color.png
-  humanURL: https://federation.nih.gov
-  baseURL: https:///
-  tags: 3D Printing
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/national-institutes-of-health/openapi.md
+apis: []
 x-common:
 - type: x-developer
   url: https://federation.nih.gov/webServices.asp

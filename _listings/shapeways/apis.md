@@ -7,28 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/681-shapew
 x-kinRank: "7"
 x-alexaRank: "13663"
 tags: 3D Printing
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/shapeways/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Shapeways
-  x-api-slug: shapeways
-  description: Shapeways is the place for to buy, make and sell 3D printed products.
-    Using Shapeways you canupload your design, and they print it and ship it to you,
-    and your customers. All you have to focus on is coming up with ideas for products
-    and generating 3D drawings for these ideas.Shapeways also provides a community
-    for Shapeways users to connect, share work and find inspiration. Shapeways uses
-    3D Printing which has proven itself as a high-quality production technique, but
-    up to now has always been very expensive. By creating a large community Shapeways
-    is able to produce much cheaper. A sort of cooperative 3D printing infrastructure.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/681-shapeways.jpg
-  humanURL: https://www.shapeways.com
-  baseURL: https:///
-  tags: 3D Printing
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/shapeways/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.shapeways.com/

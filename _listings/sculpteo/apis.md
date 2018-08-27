@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1748-sculp
 x-kinRank: "7"
 x-alexaRank: "56483"
 tags: 3D Printing
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/sculpteo/apis.md
 specificationVersion: "0.14"
 apis: []

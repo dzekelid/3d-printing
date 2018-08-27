@@ -1,53 +1,128 @@
 {
-	"name": "Maker Shed",
-	"x-slug": "maker-shed",
-	"description": "Shop the online store of Make: magazine & Maker Faire. Find great DIY projects for the whole family - 3D Printing, Arduino, Raspberry Pi, drones, robotics, STEM",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28347-maker-shed.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "257195",
-	"tags": "3D Printing",
-	"created": "2018-08-24",
-	"modified": "2018-08-24",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/3d-printing\/master\/_listings\/maker-shed\/apis.md",
+	"name": "Streadata.io API Gallery - 3D Printing",
+	"description": "This is a repository of 3d printing APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/3d-printing.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://3d-printing.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Maker Shed",
-			"x-api-slug": "maker-shed",
-			"description": "Shop the online store of Make: magazine & Maker Faire. Find great DIY projects for the whole family - 3D Printing, Arduino, Raspberry Pi, drones, robotics, STEM",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28347-maker-shed.jpg",
-			"humanURL": "http:\/\/makershed.com",
-			"baseURL": "https:\/\/\/",
+			"name": "Ponoko",
+			"x-api-slug": "ponoko",
+			"description": "Laser cutting & engraving for makers & businesses ??? Your product designs custom made by our designers & robots, fast. Make your first product FREE",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/49-ponoko.jpg",
+			"humanURL": "https://www.ponoko.com/",
+			"baseURL": "https:///",
 			"tags": "3D Printing",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/3d-printing\/master\/_listings\/maker-shed\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/ponoko/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Thingiverse",
+			"x-api-slug": "thingiverse",
+			"description": "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/258-thingiverse.jpg",
+			"humanURL": "http://www.thingiverse.com/developers",
+			"baseURL": "https:///",
+			"tags": "3D Printing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/thingiverse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shapeways",
+			"x-api-slug": "shapeways",
+			"description": "Design, Prototype, Buy and Sell custom products at Shapeways; The worlds largest online 3D Printing Service, Community and Marketplace.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/681-shapeways.jpg",
+			"humanURL": "https://www.shapeways.com",
+			"baseURL": "https:///",
+			"tags": "3D Printing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/shapeways/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sculpteo",
+			"x-api-slug": "sculpteo",
+			"description": "Sculpteo offers everyone rapid online 3D printing services. Get your parts in a few days thanks to our professional 3D printers!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1748-sculpteo.jpg",
+			"humanURL": "http://www.sculpteo.com",
+			"baseURL": "https:///",
+			"tags": "3D Printing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/sculpteo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Institutes of Health",
+			"x-api-slug": "national-institutes-of-health",
+			"description": "The National Institutes of Health (NIH) is a biomedical research facility primarily located in Bethesda, Maryland, USA. An agency of the United States Department of Health and Human Services, it is the primary agency of the United States government responsible for biomedical and health-related research. The NIH both conducts its own scientific research through its Intramural Research Program (IRP) and provides major biomedical research funding to non-NIH research facilities through its Extramural Research Program. With 1,200 principal investigators and more than 4,000 postdoctoral fellows in basic, translational, and clinical research, the IRP is the largest biomedical research institution on Earth, while, as of 2003, the extramural arm provided 28% of biomedical research funding spent annually in the US, or about US$26.4 billion.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NIH_Master_Logo_Vertical_2Color.png",
+			"humanURL": "https://federation.nih.gov",
+			"baseURL": "https:///",
+			"tags": "3D Printing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/national-institutes-of-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Maker Shed",
+			"x-api-slug": "maker-shed",
+			"description": "Shop the online store of Make: magazine & Maker Faire. Find great DIY projects for the whole family - 3D Printing, Arduino, Raspberry Pi, drones, robotics, STEM",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28347-maker-shed.jpg",
+			"humanURL": "http://makershed.com",
+			"baseURL": "https:///",
+			"tags": "3D Printing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/maker-shed/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-crunchbase",
-			"url": "https:\/\/crunchbase.com\/organization\/maker-shed"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/MakerShed"
-		},
-		{
-			"type": "x-website",
-			"url": "http:\/\/makershed.com"
-		}
-	],
+	"tags": "3D Printing",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "Ponoko",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/ponoko/apis.yaml"
+		},
+		{
+			"name": "Thingiverse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/thingiverse/apis.yaml"
+		},
+		{
+			"name": "Shapeways",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/shapeways/apis.yaml"
+		},
+		{
+			"name": "Sculpteo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/sculpteo/apis.yaml"
+		},
+		{
+			"name": "National Institutes of Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/national-institutes-of-health/apis.yaml"
+		},
+		{
+			"name": "Maker Shed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/3d-printing/master/_listings/maker-shed/apis.yaml"
 		}
 	]
 }
